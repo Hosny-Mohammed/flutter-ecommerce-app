@@ -39,7 +39,7 @@ This project is a feature-rich e-commerce mobile application built using Flutter
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd repo-name
+   cd flutter-ecommerce-app
    ```
 3. **Install dependencies**:
    ```bash
